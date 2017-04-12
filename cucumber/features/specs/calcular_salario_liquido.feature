@@ -18,5 +18,5 @@ Funcionalidade: Calcular Salario Liquido
     Exemplos:
         | salario_bruto | salario_liquido | imposto     |
         | "1.000,00"    | "920,00"        | "0,00"      |
-        | "10.000,00"   | "7.705,47"      | "1.723,65"  |
+        | "10.000,00"   | "8.705,47"      | "1.723,65"  |
         | "45.000,00"   | "33.080,47"     | "11.348,65" |
